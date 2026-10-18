@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-lazy-object-proxy/commit/1030dfa676508f8f0cdc30fcaf04aa391b162e0f",
       "git:hexsha": "1030dfa676508f8f0cdc30fcaf04aa391b162e0f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.13.0"
     },
     {
