@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "python-lazy-object-proxy",
+  "versions": [
+    {
+      "commit": "1030dfa676508f8f0cdc30fcaf04aa391b162e0f",
+      "tag": "v1.13.0",
+      "parsed_at": "2026-10-18T05:31:43.595389+00:00"
+    }
+  ]
+}
